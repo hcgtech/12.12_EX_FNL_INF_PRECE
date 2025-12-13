@@ -1,4 +1,4 @@
-# EXAMEN FINAL 12-DIC-25 TURNO INTENSIVO (SÁBADO)
+# EXAMEN FINAL 13-DIC-25 TURNO INTENSIVO (SÁBADO)
 # REGULAR COMPLETO/INCOMPLETO
 ## TECNICATURA PRECEPTOR
 
@@ -11,7 +11,7 @@
 ## El proyecto trata sobre protocolo de emergencia y evacuación para un aserradero. 
 ## 4. Instrucciones para Desarrollo e Implementación
 **Paso 1:**
-* En Gitub, crea un repositorio llamado **examen_12-Dic-2025**
+* En Gitub, crea un repositorio llamado **examen_13-Dic-2025**
 
 **Paso 2:**
 * **Solicitar a perplexity lo siguiente:**
@@ -40,7 +40,7 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
-      # EXAMEN FINAL 12-DIC-25 INTENSIVO (SABADO)
+      # EXAMEN FINAL 13-DIC-25 INTENSIVO (SABADO)
       # REGULAR COMPLETO/INCOMPLETO LIBRE
       ## TECNICATURA PRECEPTOR
       
